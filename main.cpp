@@ -1,5 +1,4 @@
 /*
-Name: Billy Myers, 5004892732, 1004, Assignment 6
 Description: This program manages records for a simulated bank
 Input:  CSV files with bank member information
 Output: List of options for the user to access about their account
